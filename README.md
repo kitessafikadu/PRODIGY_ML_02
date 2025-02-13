@@ -31,20 +31,5 @@ The dataset used for segmentation could be customer transaction data, e-commerce
 - **Business insights** that help in targeted marketing, personalized offers, and better customer engagement.
 
 ## 🚀 How to Run the Project
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/kmeans-customer-segmentation.git
-   cd kmeans-customer-segmentation
-   ```
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-   ```
-4. Open the `.ipynb` file and execute the cells step by step.
 
----
 💡 *Developed by [Kitessa Fikadu](https://linkedin.com/in/kitessa-fikadu).*
