@@ -1,7 +1,7 @@
 # K-Means Customer Segmentation
 
 ## 📌 Project Overview
-This project focuses on **customer segmentation** using the **K-Means clustering algorithm** as part of my **machine learning internship at Prodigy Infotech**. The goal is to analyze customer data, identify patterns, and group customers into meaningful segments based on their purchasing behavior, demographics, or other relevant features.
+This project focuses on **customer segmentation** using the **K-Means clustering algorithm** as part of my **machine learning internship at [Prodigy Infotech](https://prodigyinfotech.dev/)**. The goal is to analyze customer data, identify patterns, and group customers into meaningful segments based on their purchasing behavior, demographics, or other relevant features.
 
 ## 🎯 Objectives
 - **Implement K-Means clustering** to segment customers effectively.
